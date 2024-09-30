@@ -8,7 +8,7 @@ I've been learning React. I manage the frontend and am studying the backend and 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [panutthon.cc@hotmail.com](mailto:panutthon.cc@hotmail.com)
-* 🧠  I'm learning Next.js and Flutter
+* 🧠  I'm learning Next.js
 
 ### Skills
 
