@@ -1,7 +1,7 @@
 # 👋 Hi, My name is [Panutthon Chanachon.](https://github.com/panutthon)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2986cc&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Intern;Frontend+Developer;React+%26+Next.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2986cc&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering;Full+Stack+Developer;React+%26+Next.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About me
