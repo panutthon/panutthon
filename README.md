@@ -101,13 +101,13 @@ const panutthon = {
 
 > "การเขียนโค้ดที่ดีคือการเขียนโค้ดที่คนอื่นเข้าใจได้ง่าย"
 
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=panutthon&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
