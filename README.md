@@ -97,12 +97,11 @@ const panutthon = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panutthon&theme=tokyonight" />
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
 ## ⚡ Fun Fact
 
 > "การเขียนโค้ดที่ดีคือการเขียนโค้ดที่คนอื่นเข้าใจได้ง่าย"
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 <div align="center">
