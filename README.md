@@ -94,7 +94,7 @@ const panutthon = {
 ## 👣 ผู้ติดตามและกำลังติดตาม
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panutthon&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panutthon&theme=tokyonight&utcOffset=7" />
 </div>
 
 
