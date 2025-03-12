@@ -80,10 +80,10 @@ const panutthon = {
 
 <div align="center">
   <a href="https://github.com/panutthon/[ชื่อโปรเจกต์ของคุณ]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=[ชื่อโปรเจกต์ของคุณ]&theme=tokyonight" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=[Ecommerce-TypeScript-NextJS]&theme=tokyonight" alt="Project 1" />
   </a>
   <a href="https://github.com/panutthon/[ชื่อโปรเจกต์ของคุณ]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=[ชื่อโปรเจกต์ของคุณ]&theme=tokyonight" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=[NSC_Project-Flutter-Firebase]&theme=tokyonight" alt="Project 2" />
   </a>
 </div>
 
