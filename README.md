@@ -33,11 +33,68 @@ const panutthon = {
   </a>
 </div>
 
+## 🔗 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/panutthon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/panutthon" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/panutthon" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@panutthon" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20I%20Work%20With&align=center&lineCount=4&theme=tokyonight&line1=react,react,61DAFB;next.js,next.js,000000;typescript,typescript,3178C6;javascript,javascript,F7DF1E;&line2=node.js,node.js,339933;.net,.net,512BD4;flutter,flutter,02569B;docker,docker,2496ED;&line3=mongodb,mongodb,47A248;mysql,mysql,4479A1;chakra-ui,chakra,319795;material-ui,mui,007FFF;&line4=git,git,F05032;figma,figma,F24E1E;redux,redux,764ABC;tailwind,tailwind,06B6D4;" alt="Tech Stack" />
 </div>
 
-## 🔧 Skills & Tools
+## 🌟 Latest Achievements
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=panutthon&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panutthon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panutthon&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
+
+## 🚀 Current Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🛒 E-commerce Platform</b>
+      <br />
+      <small>A modern e-commerce platform with Next.js and TypeScript</small>
+      <br />
+      <img src="https://progress-bar.dev/75?title=Progress&width=250&color=1a237e" />
+    </td>
+    <td align="center" width="50%">
+      <b>📱 Mobile Health App</b>
+      <br />
+      <small>A Flutter-based app for health monitoring</small>
+      <br />
+      <img src="https://progress-bar.dev/40?title=Progress&width=250&color=1a237e" />
+    </td>
+  </tr>
+</table>
+
+## 🧩 Skills & Tools
 
 <details>
 <summary>Frontend Development</summary>
@@ -88,12 +145,25 @@ const panutthon = {
 </p>
 </details>
 
-## 📊 GitHub Analytics
+## 📈 My Coding Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panutthon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panutthon&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=panutthon&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
 </div>
+
+## 🎵 Currently Vibing To
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=panutthon&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=panutthon&redirect=true)
+  
+</div>
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Built a High-Performance Next.js E-Commerce Store](https://medium.com/@panutthon/how-i-built-a-high-performance-nextjs-e-commerce-store-123456)
+- [5 TypeScript Tips to Supercharge Your Development](https://dev.to/panutthon/5-typescript-tips-to-supercharge-your-development-123)
+- [The Complete Guide to State Management in React](https://medium.com/@panutthon/the-complete-guide-to-state-management-in-react-123456)
+<!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Featured Projects
 
@@ -104,6 +174,48 @@ const panutthon = {
   <a href="https://github.com/panutthon/NSC_Project-Flutter-Firebase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=NSC_Project-Flutter-Firebase&theme=tokyonight&hide_border=true" alt="NSC Project" />
   </a>
+</div>
+
+### Project Highlights
+
+<table>
+  <tr>
+    <td>
+      <h3>🛒 E-commerce Platform</h3>
+      <p>A fully responsive e-commerce platform built with Next.js and TypeScript featuring:</p>
+      <ul>
+        <li>Cart and checkout with Stripe integration</li>
+        <li>User authentication and profile management</li>
+        <li>Product filtering and search</li>
+        <li>Admin dashboard for inventory management</li>
+      </ul>
+      <p><b>Technologies:</b> Next.js, TypeScript, Redux Toolkit, MongoDB, Stripe API</p>
+    </td>
+    <td>
+      <h3>📱 NSC Project - Mobile App</h3>
+      <p>A cross-platform mobile application developed for the National Software Contest featuring:</p>
+      <ul>
+        <li>Real-time data synchronization</li>
+        <li>Offline functionality</li>
+        <li>Push notifications</li>
+        <li>Custom animations and UI components</li>
+      </ul>
+      <p><b>Technologies:</b> Flutter, Dart, Firebase, Material Design</p>
+    </td>
+  </tr>
+</table>
+
+## 📚 Learning Journey
+
+<div align="center">
+  
+  | Currently Learning | Planning to Learn |
+  |:------------------:|:------------------:|
+  | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
+  | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+  | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
+  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white) |
+  
 </div>
 
 ## 🌟 Recent Activity & Productive Time
@@ -117,10 +229,24 @@ const panutthon = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panutthon&theme=tokyonight" />
 </div>
 
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/panutthon/panutthon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 💡 Favorite Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+## 💬 Let's Discuss
+
+<div align="center">
+  <p>What's your favorite frontend framework? Let me know in the issues!</p>
+  <a href="https://github.com/panutthon/panutthon/issues/new?title=My%20favorite%20framework%20is...&body=I%20like%20this%20framework%20because...">
+    <img src="https://img.shields.io/badge/Join_the_discussion-0F4C81?style=for-the-badge" alt="Join the discussion" />
+  </a>
 </div>
 
 ## 🚀 My Development Philosophy
