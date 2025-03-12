@@ -87,9 +87,6 @@ const panutthon = {
   </a>
 </div>
 
-## 📈 กิจกรรมของฉัน
-[![พนัทธร's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panutthon&theme=tokyo-night)](https://github.com/panutthon)
-
 ## 🔄 ความเคลื่อนไหวล่าสุด
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panutthon&theme=tokyonight)
