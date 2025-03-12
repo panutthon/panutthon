@@ -1,10 +1,10 @@
-# 👋 สวัสดีครับ, ผมชื่อ [พนัทธร จนาจรณ์](https://github.com/panutthon) 
+# 👋 Hello, My name is [Panutthon Chanachon](https://github.com/panutthon)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2986cc&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Intern;Frontend+Developer;React+%26+Next.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-## 🧑‍💻 เกี่ยวกับตัวผม
+## 🧑‍💻 About me
 
 ```javascript
 const panutthon = {
@@ -23,7 +23,7 @@ const panutthon = {
   </a>
 </p>
 
-## 🚀 ทักษะและเครื่องมือ
+## 🚀 Skills and tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
