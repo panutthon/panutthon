@@ -76,7 +76,7 @@ const panutthon = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panutthon&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🏆 โปรเจกต์เด่น
+## 🏆 Featured Projects
 
 <div align="center">
   <a href="https://github.com/panutthon/Ecommerce-TypeScript-NextJS">
@@ -87,27 +87,30 @@ const panutthon = {
   </a>
 </div>
 
-## 🔄 ความเคลื่อนไหวล่าสุด
+## 📈 Activity Graph
+[![Panutthon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panutthon&theme=tokyo-night)](https://github.com/panutthon)
+
+## 🔄 Recent Activity
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panutthon&theme=tokyonight)
 
-## 👣 ผู้ติดตามและกำลังติดตาม
+## 👣 Productive Time
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panutthon&theme=tokyonight&utcOffset=7" />
 </div>
 
 
- ## ⚡ Fun Fact
+## ⚡ Fun Fact
  
- > "การเขียนโค้ดที่ดีคือการเขียนโค้ดที่คนอื่นเข้าใจได้ง่าย"
+> "Good code is code that anyone can understand easily."
  
- ---
+---
  
- <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=panutthon&color=blue&style=for-the-badge" alt="Profile Views" />
- </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=panutthon&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
  
- <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
- </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
