@@ -97,15 +97,17 @@ const panutthon = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panutthon&theme=tokyonight" />
 </div>
 
-## ⚡ Fun Fact
 
-> "การเขียนโค้ดที่ดีคือการเขียนโค้ดที่คนอื่นเข้าใจได้ง่าย"
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=panutthon&color=blue&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+ ## ⚡ Fun Fact
+ 
+ > "การเขียนโค้ดที่ดีคือการเขียนโค้ดที่คนอื่นเข้าใจได้ง่าย"
+ 
+ ---
+ 
+ <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=panutthon&color=blue&style=for-the-badge" alt="Profile Views" />
+ </div>
+ 
+ <div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+ </div>
