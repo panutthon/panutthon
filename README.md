@@ -79,10 +79,10 @@ const panutthon = {
 ## 🏆 โปรเจกต์เด่น
 
 <div align="center">
-  <a href="https://github.com/panutthon/[ชื่อโปรเจกต์ของคุณ]">
+  <a href="https://github.com/panutthon/[Ecommerce-TypeScript-NextJS]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=[Ecommerce-TypeScript-NextJS]&theme=tokyonight" alt="Project 1" />
   </a>
-  <a href="https://github.com/panutthon/[ชื่อโปรเจกต์ของคุณ]">
+  <a href="https://github.com/panutthon/[NSC_Project-Flutter-Firebase]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=[NSC_Project-Flutter-Firebase]&theme=tokyonight" alt="Project 2" />
   </a>
 </div>
