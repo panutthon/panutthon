@@ -49,10 +49,6 @@ const panutthon = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20I%20Work%20With&align=center&lineCount=4&theme=tokyonight&line1=react,react,61DAFB;next.js,next.js,000000;typescript,typescript,3178C6;javascript,javascript,F7DF1E;&line2=node.js,node.js,339933;.net,.net,512BD4;flutter,flutter,02569B;docker,docker,2496ED;&line3=mongodb,mongodb,47A248;mysql,mysql,4479A1;chakra-ui,chakra,319795;material-ui,mui,007FFF;&line4=git,git,F05032;figma,figma,F24E1E;redux,redux,764ABC;tailwind,tailwind,06B6D4;" alt="Tech Stack" />
-</div>
-
 ## 🌟 Latest Achievements
 <div align="center">
   
