@@ -22,21 +22,6 @@ const panutthon = {
   location: "Thailand",
   role: "Full Stack Developer",
   code: ["JavaScript", "TypeScript", "C#", "Python", "Dart"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Redux"],
-      css: ["Chakra UI", "Material UI", "Bootstrap", "Tailwind CSS"],
-      build: ["Vite", "Webpack"]
-    },
-    backEnd: {
-      frameworks: [".NET", "Node.js"],
-      databases: ["MongoDB", "MySQL", "SQL Server"],
-      apis: ["RESTful", "GraphQL"]
-    },
-    mobile: ["Flutter"],
-    devOps: ["Docker", "Git", "CI/CD"],
-    design: ["Figma"]
-  },
   currentFocus: "Building responsive and performant web applications",
   funFact: "I can debug with my eyes closed... just kidding, I need at least 3 monitors!"
 };
@@ -110,10 +95,6 @@ const panutthon = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panutthon&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -122,14 +103,6 @@ const panutthon = {
   </a>
   <a href="https://github.com/panutthon/NSC_Project-Flutter-Firebase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=NSC_Project-Flutter-Firebase&theme=tokyonight&hide_border=true" alt="NSC Project" />
-  </a>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/panutthon">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=panutthon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
   </a>
 </div>
 
