@@ -227,7 +227,7 @@ const panutthon = {
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/panutthon/panutthon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ## 💡 Favorite Quote
