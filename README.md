@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Panutthon%20Chanachon&desc=Full%20Stack%20Developer&fontSize=60&fontColor=2986cc&descSize=30&descAlignY=70&animation=fadeIn&stroke=2986cc&strokeWidth=2" />
 </div>
-<p align="center">
-  <a href="mailto:panutthon.cc@hotmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-panutthon.cc%40hotmail.com-2986cc?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=000000" alt="Email Me" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/panutthon"><img src="https://img.shields.io/github/followers/panutthon?label=Followers&style=social" alt="GitHub Followers" /></a>
@@ -26,12 +21,6 @@ const panutthon = {
   funFact: "I can debug with my eyes closed... just kidding, I need at least 3 monitors!"
 };
 ```
-
-<div align="center">
-  <a href="mailto:panutthon.cc@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-panutthon.cc%40hotmail.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-</div>
 
 ## 🔗 Connect With Me
 <div align="center">
