@@ -42,9 +42,7 @@ const panutthon = {
 </div>
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight)](https://git.io/streak-stats)
-  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🌟 Recent Activity & Productive Time
