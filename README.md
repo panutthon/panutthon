@@ -69,27 +69,6 @@ const panutthon = {
   
 </div>
 
-## 🚀 Current Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>🛒 E-commerce Platform</b>
-      <br />
-      <small>A modern e-commerce platform with Next.js and TypeScript</small>
-      <br />
-      <img src="https://progress-bar.dev/75?title=Progress&width=250&color=1a237e" />
-    </td>
-    <td align="center" width="50%">
-      <b>📱 Mobile Health App</b>
-      <br />
-      <small>A Flutter-based app for health monitoring</small>
-      <br />
-      <img src="https://progress-bar.dev/40?title=Progress&width=250&color=1a237e" />
-    </td>
-  </tr>
-</table>
-
 ## 🧩 Skills & Tools
 
 <details>
@@ -140,13 +119,6 @@ const panutthon = {
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </p>
 </details>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a High-Performance Next.js E-Commerce Store](https://medium.com/@panutthon/how-i-built-a-high-performance-nextjs-e-commerce-store-123456)
-- [5 TypeScript Tips to Supercharge Your Development](https://dev.to/panutthon/5-typescript-tips-to-supercharge-your-development-123)
-- [The Complete Guide to State Management in React](https://medium.com/@panutthon/the-complete-guide-to-state-management-in-react-123456)
-<!-- BLOG-POST-LIST:END -->
 
 ### Project Highlights
 
