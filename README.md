@@ -8,6 +8,12 @@
   <a href="mailto:panutthon.cc@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=microsoftoutlook" alt="Email Me" /></a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/panutthon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/panutthon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://panutthon.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website" /></a>
+</p>
+
 ## 💫 About Me
 
 ```javascript
@@ -88,6 +94,15 @@ const panutthon = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects related to:
+- Web Accessibility
+- Performance Optimization
+- Open Source Tools
+
+Feel free to reach out if you have a project where I can contribute!
 
 ## 🚀 My Development Philosophy
 
