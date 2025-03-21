@@ -160,21 +160,6 @@ const panutthon = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panutthon&theme=tokyonight" />
 </div>
 
-## 💡 Favorite Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-## 💬 Let's Discuss
-
-<div align="center">
-  <p>What's your favorite frontend framework? Let me know in the issues!</p>
-  <a href="https://github.com/panutthon/panutthon/issues/new?title=My%20favorite%20framework%20is...&body=I%20like%20this%20framework%20because...">
-    <img src="https://img.shields.io/badge/Join_the_discussion-0F4C81?style=for-the-badge" alt="Join the discussion" />
-  </a>
-</div>
-
 ## 🚀 My Development Philosophy
 
 > "I believe that clean code isn't just about syntax—it's about crafting solutions that solve real problems efficiently while remaining accessible to other developers. Every line of code tells a story, and I strive to make mine a bestseller."
