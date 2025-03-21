@@ -22,7 +22,8 @@ const panutthon = {
   location: "Thailand",
   role: "Full Stack Developer",
   code: ["JavaScript", "TypeScript", "C#", "Python", "Dart"],
-  currentFocus: "Building responsive and performant web applications",
+  passions: ["Responsive Web Apps", "Clean Code", "Performance Optimization"],
+  currentFocus: "Building scalable and maintainable web applications",
   funFact: "I can debug with my eyes closed... just kidding, I need at least 3 monitors!"
 };
 ```
@@ -69,9 +70,9 @@ const panutthon = {
   
 </div>
 
-## 🧩 Skills & Tools
+## 🧩 Skills & Technologies
 
-<details>
+<details open>
 <summary>Frontend Development</summary>
 <br>
 <p align="left">
@@ -96,6 +97,7 @@ const panutthon = {
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -117,6 +119,7 @@ const panutthon = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 </details>
 
