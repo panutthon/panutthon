@@ -120,35 +120,6 @@ const panutthon = {
 </p>
 </details>
 
-### Project Highlights
-
-<table>
-  <tr>
-    <td>
-      <h3>🛒 E-commerce Platform</h3>
-      <p>A fully responsive e-commerce platform built with Next.js and TypeScript featuring:</p>
-      <ul>
-        <li>Cart and checkout with Stripe integration</li>
-        <li>User authentication and profile management</li>
-        <li>Product filtering and search</li>
-        <li>Admin dashboard for inventory management</li>
-      </ul>
-      <p><b>Technologies:</b> Next.js, TypeScript, Redux Toolkit, MongoDB, Stripe API</p>
-    </td>
-    <td>
-      <h3>📱 NSC Project - Mobile App</h3>
-      <p>A cross-platform mobile application developed for the National Software Contest featuring:</p>
-      <ul>
-        <li>Real-time data synchronization</li>
-        <li>Offline functionality</li>
-        <li>Push notifications</li>
-        <li>Custom animations and UI components</li>
-      </ul>
-      <p><b>Technologies:</b> Flutter, Dart, Firebase, Material Design</p>
-    </td>
-  </tr>
-</table>
-
 ## 🌟 Recent Activity & Productive Time
 
 <div align="center">
