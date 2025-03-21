@@ -160,11 +160,6 @@ const panutthon = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panutthon&theme=tokyonight" />
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-</div>
-
 ## 💡 Favorite Quote
 
 <div align="center">
