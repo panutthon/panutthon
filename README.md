@@ -23,7 +23,9 @@ const panutthon = {
 
 ## 🌟 Latest Achievements
 <div align="center">
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=panutthon&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
 ## 📊 GitHub Stats & Streak
@@ -34,7 +36,9 @@ const panutthon = {
 </div>
 
 <div align="center">
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight)](https://git.io/streak-stats)
+  
 </div>
 
 ## 🧩 Skills & Technologies
