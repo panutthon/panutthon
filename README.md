@@ -15,34 +15,15 @@ const panutthon = {
   name: "Panutthon Chanachon",
   location: "Thailand",
   role: "Full Stack Developer",
-  code: ["JavaScript", "TypeScript", "C#", "Python", "Dart"],
+  code: ["TypeScript", "JavaScript", "C#", "Python", "Dart", "Go"],
   passions: ["Responsive Web Apps", "Clean Code", "Performance Optimization"],
   currentFocus: "Building scalable and maintainable web applications",
-  funFact: "I can debug with my eyes closed... just kidding, I need at least 3 monitors!"
 };
 ```
 
-## 🔗 Connect With Me
-<div align="center">
-  <a href="https://linkedin.com/in/panutthon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/panutthon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/panutthon" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@panutthon" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</div>
-
 ## 🌟 Latest Achievements
 <div align="center">
-  
   [![trophy](https://github-profile-trophy.vercel.app/?username=panutthon&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
 </div>
 
 ## 📊 GitHub Stats & Streak
@@ -53,9 +34,7 @@ const panutthon = {
 </div>
 
 <div align="center">
-  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight)](https://git.io/streak-stats)
-  
 </div>
 
 ## 🧩 Skills & Technologies
