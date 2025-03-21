@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Panutthon%20Chanachon&desc=Full%20Stack%20Developer&fontSize=60&fontColor=2986cc&descSize=30&descAlignY=70&animation=fadeIn&stroke=2986cc&strokeWidth=2" />
 </div>
-<div align="center">
-  <a href="https://github.com/panutthon"><img src="https://img.shields.io/github/followers/panutthon?style=for-the-badge&logo=github&color=2986cc&labelColor=000000" alt="GitHub Followers" /></a>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="React Expert" />
-  <img src="https://img.shields.io/badge/UI/UX-Enthusiast-FF5733?style=for-the-badge&logo=figma&logoColor=FF5733&labelColor=000000" alt="UI/UX Enthusiast" />
-  <img src="https://img.shields.io/badge/Code-Craftsman-4C566A?style=for-the-badge&logo=visualstudiocode&logoColor=4C566A&labelColor=000000" alt="Code Craftsman" />
-  <img src="https://komarev.com/ghpvc/?username=panutthon&style=for-the-badge&color=2986cc&label=Profile+Views&labelColor=000000" alt="Profile Views" />
-</div>
 <p align="center">
   <a href="mailto:panutthon.cc@hotmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-panutthon.cc%40hotmail.com-2986cc?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=000000" alt="Email Me" />
