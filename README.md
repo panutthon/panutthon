@@ -148,17 +148,6 @@ const panutthon = {
 - [The Complete Guide to State Management in React](https://medium.com/@panutthon/the-complete-guide-to-state-management-in-react-123456)
 <!-- BLOG-POST-LIST:END -->
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/panutthon/Ecommerce-TypeScript-NextJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=Ecommerce-TypeScript-NextJS&theme=tokyonight&hide_border=true" alt="E-commerce Project" />
-  </a>
-  <a href="https://github.com/panutthon/NSC_Project-Flutter-Firebase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panutthon&repo=NSC_Project-Flutter-Firebase&theme=tokyonight&hide_border=true" alt="NSC Project" />
-  </a>
-</div>
-
 ### Project Highlights
 
 <table>
