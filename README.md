@@ -141,19 +141,6 @@ const panutthon = {
 </p>
 </details>
 
-## 📈 My Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=panutthon&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
-</div>
-
-## 🎵 Currently Vibing To
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=panutthon&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=panutthon&redirect=true)
-  
-</div>
-
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a High-Performance Next.js E-Commerce Store](https://medium.com/@panutthon/how-i-built-a-high-performance-nextjs-e-commerce-store-123456)
