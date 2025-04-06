@@ -8,10 +8,6 @@
   <a href="mailto:panutthon.cc@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=microsoftoutlook" alt="Email Me" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/panutthon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ## 💫 About Me
 
 ```javascript
