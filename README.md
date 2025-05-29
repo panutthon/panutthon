@@ -14,8 +14,8 @@
 const panutthon = {
   name: "Panutthon Chanachon",
   location: "Thailand",
-  role: "Full Stack Developer",
-  code: ["TypeScript", "JavaScript", "C#", "Python", "Dart"],
+  role: ["Full Stack Developer", "Software Developer"],
+  code: ["TypeScript", "JavaScript", "C#", "Python", "Dart", "PHP"],
   passions: ["Responsive Web Apps", "Clean Code", "Performance Optimization"],
   currentFocus: "Building scalable and maintainable web applications",
 };
