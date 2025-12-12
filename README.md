@@ -21,35 +21,6 @@ const panutthon = {
 };
 ```
 
-## 🌟 Latest Achievements
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=panutthon&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panutthon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panutthon&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🌟 Recent Activity & Productive Time
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panutthon&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panutthon&theme=tokyonight&utcOffset=7" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panutthon&theme=tokyonight" />
-</div>
-
 ## 🧩 Skills & Technologies
 
 ### Frontend Development
