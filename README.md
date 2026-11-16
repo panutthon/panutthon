@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Panutthon%20Chanachon&desc=Full%20Stack%20Developer%20%7C%20ERP%20%26%20E-commerce%20Systems&fontSize=50&fontColor=ffffff&descSize=18&descAlignY=70&animation=fadeIn&color=0:2986cc,100:1b4f72" />
+  <img src="./assets/header.svg" width="100%" alt="Panutthon Chanachon — Full Stack Developer | ERP &amp; E-commerce Systems" />
 </div>
 
 <p align="center">
@@ -42,12 +42,13 @@ const panutthon = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panutthon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=panutthon&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panutthon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" height="165"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" height="165"/>
 </p>
 
 ---
@@ -124,5 +125,5 @@ Happy to collaborate or exchange ideas on:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </div>
