@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Case Management Platform — Rebuilt a legacy PHP support-case system as NestJS + React on SQL Server">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c9d1d9; font-size: 19px; }
+    .muted { fill: #8b949e; }
+    .accent { fill: #58a6ff; }
+    .prompt { fill: #3fb950; }
+    .m { fill: #f0883e; font-weight: 700; }
+    .b { font-weight: 700; }
+    .title { font-size: 16px; fill: #8b949e; }
+    .name { font-size: 36px; font-weight: 700; fill: #58a6ff; }
+    .small { font-size: 17px; fill: #8b949e; }
+    .cursor { fill: #3fb950; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="998" height="288" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M1 13a12 12 0 0 1 12-12h974a12 12 0 0 1 12 12v31H1z" fill="#161b22"/>
+  <line x1="1" y1="44" x2="999" y2="44" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="26" cy="22.5" r="6.5" fill="#ff5f56"/>
+  <circle cx="48" cy="22.5" r="6.5" fill="#ffbd2e"/>
+  <circle cx="70" cy="22.5" r="6.5" fill="#27c93f"/>
+  <text x="500" y="28" text-anchor="middle" class="title">~/case-platform</text>
+  <text x="36" y="84"><tspan class="prompt">●</tspan> <tspan class="b">Case Management Platform</tspan></text>
+  <text x="964" y="84" text-anchor="end" class="small">solo · full-stack</text>
+  <text x="36" y="116" class="muted">Rebuilt a legacy PHP support-case system as NestJS + React on SQL Server</text>
+  <text x="36" y="158"><tspan class="muted">›</tspan> <tspan class="m">6+ min → 145 ms</tspan> case-list API (server-side paging + indexes)</text>
+  <text x="36" y="190"><tspan class="muted">›</tspan> <tspan class="m">69,681</tspan> cases · <tspan class="m">338,298</tspan> events · <tspan class="m">962</tspan> users migrated, <tspan class="m">0</tspan> errors</text>
+  <text x="36" y="222"><tspan class="muted">›</tspan> <tspan class="m">~5 s → ~0.4 s</tspan> Kanban first render · <tspan class="m">1,959</tspan> automated tests</text>
+  <text x="36" y="262" class="small">stack: TypeScript · NestJS · Prisma · React · SQL Server · AI copilot</text>
+</svg>

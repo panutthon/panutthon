@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="418" viewBox="0 0 1000 418" role="img" aria-label="Panutthon Chanachon — Full Stack Developer, ERP &amp; E-commerce Integration, Bangkok">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c9d1d9; font-size: 19px; }
+    .muted { fill: #8b949e; }
+    .accent { fill: #58a6ff; }
+    .prompt { fill: #3fb950; }
+    .m { fill: #f0883e; font-weight: 700; }
+    .b { font-weight: 700; }
+    .title { font-size: 16px; fill: #8b949e; }
+    .name { font-size: 36px; font-weight: 700; fill: #58a6ff; }
+    .small { font-size: 17px; fill: #8b949e; }
+    .cursor { fill: #3fb950; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="998" height="416" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M1 13a12 12 0 0 1 12-12h974a12 12 0 0 1 12 12v31H1z" fill="#161b22"/>
+  <line x1="1" y1="44" x2="999" y2="44" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="26" cy="22.5" r="6.5" fill="#ff5f56"/>
+  <circle cx="48" cy="22.5" r="6.5" fill="#ffbd2e"/>
+  <circle cx="70" cy="22.5" r="6.5" fill="#27c93f"/>
+  <text x="500" y="28" text-anchor="middle" class="title">panutthon@bangkok: ~</text>
+  <text x="36" y="86"><tspan class="prompt">❯</tspan> whoami</text>
+  <text x="36" y="134" class="name">Panutthon Chanachon</text>
+  <text x="36" y="176" class="muted">role..........</text><text x="210" y="176">Full Stack Developer · ERP &amp; E-commerce Integration</text>
+  <text x="36" y="208" class="muted">location......</text><text x="210" y="208">Bangkok, Thailand</text>
+  <text x="36" y="240" class="muted">stack.........</text><text x="210" y="240">TypeScript · Node.js · NestJS · React · SQL Server</text>
+  <text x="36" y="272" class="muted">erp...........</text><text x="210" y="272">Microsoft Dynamics 365 Business Central</text>
+  <text x="36" y="304" class="muted">integrations..</text><text x="210" y="304">Shopee · Lazada · TikTok Shop</text>
+  <rect x="36" y="332" width="28" height="18" rx="3" fill="#c9d1d9"/>
+  <rect x="70" y="332" width="28" height="18" rx="3" fill="#58a6ff"/>
+  <rect x="104" y="332" width="28" height="18" rx="3" fill="#3fb950"/>
+  <rect x="138" y="332" width="28" height="18" rx="3" fill="#f0883e"/>
+  <rect x="172" y="332" width="28" height="18" rx="3" fill="#ff5f56"/>
+  <rect x="206" y="332" width="28" height="18" rx="3" fill="#ffbd2e"/>
+  <rect x="240" y="332" width="28" height="18" rx="3" fill="#a371f7"/>
+  <rect x="274" y="332" width="28" height="18" rx="3" fill="#8b949e"/>
+  <text x="36" y="390"><tspan class="prompt">❯</tspan></text><rect class="cursor" x="58" y="375" width="10" height="19"/>
+</svg>
