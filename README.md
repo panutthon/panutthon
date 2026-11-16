@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>Computer Engineer · Freelance · ERP & E-commerce Integration</em><br/>
+  <em>Full Stack Developer · ERP & E-commerce Integration</em><br/>
   📍 Bangkok, Thailand
 </p>
 
@@ -23,7 +23,7 @@ const panutthon = {
   location: "Bangkok, Thailand",
   role: ["Full Stack Developer", "ERP Systems Engineer"],
   stack: {
-    frontend: ["React (Vite)", "TypeScript", "JavaScript", "Tailwind CSS"],
+    frontend: ["React (Vite)", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "Fastify", "NestJS"],
     database: ["PostgreSQL", "MS SQL Server"],
     mobile: ["Flutter", "Dart"],
@@ -43,7 +43,7 @@ const panutthon = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=panutthon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panutthon&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=panutthon&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
@@ -70,12 +70,14 @@ const panutthon = {
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ### Mobile & Dev Tools
@@ -92,17 +94,15 @@ const panutthon = {
 
 ## 📌 Pinned Highlights
 
-> ปรับส่วนนี้ให้ตรงกับโปรเจกต์ที่อยากโชว์ได้เลยครับ ตัวอย่าง:
-
-- 🛠️ **ERP Dashboard** – React + TypeScript dashboard พร้อม data visualization (Recharts)
-- 🔗 **E-commerce ↔ ERP Integration** – เชื่อมต่อ order/finance/logistics ระหว่างหลายแพลตฟอร์มเข้าสู่ระบบ ERP กลาง
-- ⚙️ **Internal Tooling** – Node.js services สำหรับ automation และ workflow ภายในทีม
+- 🛠️ **ERP Dashboard** – React + TypeScript dashboard with data visualization (Recharts)
+- 🔗 **E-commerce ↔ ERP Integration** – Syncing orders, finance and logistics from Shopee / Lazada / TikTok Shop into a central ERP
+- ⚙️ **Internal Tooling** – Node.js services for team automation and internal workflows
 
 ---
 
 ## 🤝 Open to Collaboration
 
-สนใจร่วมงาน/แลกเปลี่ยนไอเดียในด้าน:
+Happy to collaborate or exchange ideas on:
 - Web Accessibility
 - Performance Optimization
 - Open Source Tools & Developer Experience
@@ -110,8 +110,8 @@ const panutthon = {
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:panutthon.cc@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://github.com/panutthon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:panutthon.cc@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
+  <a href="https://github.com/panutthon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -124,5 +124,5 @@ const panutthon = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="" />
 </div>
